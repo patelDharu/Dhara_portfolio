@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/dhara-matholiya-92867a346">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:dharamatholiya1116@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dharamatholiya1116@gmail.com">
     <img src="https://img.shields.io/badge/Email-Hire%20Me-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
   <a href="https://patelDharu.github.io">
